@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokedexRetrofitApp</string>
+    <string name="pokemons">Pokemons</string>
+    <string name="about">about</string>
+    <string name="Welcome">welcome</string>
+    <string name="_00000">pokeId</string>
+</resources>
